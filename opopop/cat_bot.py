@@ -19,7 +19,7 @@ from telegram.ext import (
 MENU, PROCESS_IMAGE = range(2)
 
 # Настройки
-TOKEN = "7768210415:AAEQh6__p2PIRwo4R7Vwy9BCaudmfm0lGYw"
+TOKEN = ""
 TEXT_PADDING_TOP = 30
 TEMP_DIR = "../temp_files"
 
